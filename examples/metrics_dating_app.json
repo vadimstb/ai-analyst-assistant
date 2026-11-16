@@ -1,0 +1,53 @@
+{
+  "period": "2024-04-05 – 2024-05-11",
+  "total_revenue_usd": 93749.58,
+  "payments": 11330,
+  "paying_users": 7781,
+  "avg_check_usd": 8.27,
+  "arppu_usd": 12.05,
+  "weekly": {
+    "2024-03-31/2024-04-06": {
+      "revenue_usd": 1139.87,
+      "payments": 125,
+      "paying_users": 86
+    },
+    "2024-04-07/2024-04-13": {
+      "revenue_usd": 4756.28,
+      "payments": 543,
+      "paying_users": 372
+    },
+    "2024-04-14/2024-04-20": {
+      "revenue_usd": 11110.52,
+      "payments": 1234,
+      "paying_users": 836
+    },
+    "2024-04-21/2024-04-27": {
+      "revenue_usd": 24040.12,
+      "payments": 2975,
+      "paying_users": 2177
+    },
+    "2024-04-28/2024-05-04": {
+      "revenue_usd": 28636.64,
+      "payments": 3495,
+      "paying_users": 2503
+    },
+    "2024-05-05/2024-05-11": {
+      "revenue_usd": 24066.15,
+      "payments": 2958,
+      "paying_users": 2171
+    }
+  },
+  "last_week_vs_previous_revenue_change_pct": -15.96,
+  "top3_countries_revenue_share_pct": {
+    "Ukraine": 24.48,
+    "United States of America": 20.42,
+    "South Africa": 6.46
+  },
+  "revenue_share_by_app_pct": {
+    "android": 2.57,
+    "desktop": 3.52,
+    "ios": 5.17,
+    "mobile": 88.74
+  },
+  "vip_share_of_payments_pct": 15.97
+}
